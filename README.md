@@ -1,5 +1,5 @@
 
-# Deploying Argocd on a Rancher-Managed K3S Cluster with RKE Kubernetes Using Terraform and Helm
+# Deploying Applications with Argocd on a Rancher-Managed K3S Cluster with RKE Kubernetes Using Terraform and Helm
 
 ## Introduction
 This project demonstrates the deployment of Argocd on a Rancher-managed K3S cluster with RKE Kubernetes using Terraform and Helm. The setup involves creating virtual machines, installing RKE Kubernetes, and utilizing Rancher to manage the cluster.
