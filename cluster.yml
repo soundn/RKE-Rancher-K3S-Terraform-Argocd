@@ -1,0 +1,13 @@
+nodes:
+  - address: 139.162.251.193
+    user: root
+    role:
+      - controlplane
+      - etcd
+      - worker
+    ssh_key_path: ~/.ssh/id_ed25519
+  - address: 178.79.132.30
+    user: root
+    role:
+      - worker
+    ssh_key_path: ~/.ssh/id_ed25519  # or a different path if applicable
